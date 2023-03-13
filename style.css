@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+}
+#logo{
+    margin: 10px 100px;
+}
